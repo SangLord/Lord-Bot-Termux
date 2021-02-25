@@ -126,7 +126,7 @@ Open In Setting.json!
 
 ## Special Thanks To
 
-* <a href="https://github.com/ZakiGans"><img alt="GitHub" src="https://img.shields.io/badge/Fadhil%20Graphy%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+* <a href="https://github.com/ZakiGans"><img alt="GitHub" src="https://img.shields.io/badge/Zaki%20Gans%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 * <a href="https://github.com/MhankBarBar"><img alt="GitHub" src="https://img.shields.io/badge/Mahankbarbar%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 * <a href="https://github.com/SangLord"><img alt="GitHub" src="https://img.shields.io/badge/SangLord%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 
