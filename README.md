@@ -20,7 +20,7 @@
 
 <p align="center">
  <a href="https://instagram.com/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-AB34B6?style=for-the-badge&logo=instagram&logoColor=white"/></a>
- <a href="https://youtube.com/c/MikazuMZ"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FE0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+ <a href="https://youtube.com/channel/UCnKIOgProYkkT3oRQkh9x_g"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FE0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
  <a href="https://wa.me/6283144780782"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
